@@ -17,7 +17,7 @@
 
 ### Links
 
-- GitHub URL: [GitHub Repository]()
+- GitHub URL: [GitHub Repository](https://github.com/AtrinDev/Grocery-List)
 
 ## My process
 
